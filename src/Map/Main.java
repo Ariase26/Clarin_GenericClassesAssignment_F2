@@ -26,7 +26,7 @@ public class Main {
 
         Double value1 = genMap.get(getValue);
         if (value1 != null) {
-            System.out.println("| Value corresponding to key " + getValue + ": " + value1);
+            System.out.println("| Value of Key " + getValue + ": " + value1);
         } else {
             System.out.println("| Key " + getValue + " does not exist.");
         }

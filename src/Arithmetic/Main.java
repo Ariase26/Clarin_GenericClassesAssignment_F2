@@ -22,6 +22,5 @@ public class Main {
         System.out.println("| Division: " + genMath.divide());
         System.out.println("| Max Number: " + genMath.getMax());
         System.out.println("| Min Number: " + genMath.getMin());
-        System.out.println();
     }
 }
